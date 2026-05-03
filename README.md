@@ -1,19 +1,19 @@
 # Thuc-tap-nhan-thuc
 Thực tập nhận thức
 
-IT Support Intern tại công ty outsourcing nhỏ (50–100 nhân sự)
+tháng 10/2023-12/2023 IT Support Intern tại công ty outsourcing nhỏ (50–100 nhân sự)
 
-Frontend Developer Intern (Startup môi trường AI/Web)
+tháng 3/2024-8/2024 Frontend Developer Intern (Startup môi trường AI/Web)
 
-AI Content Creator Intern (Marketing Agency)
+Freelance AI Content Creator Intern (Marketing Agency)
 
-trợ lí sản xuất, Ai automation, Video AI tại Cty cổ phần truyền thông ống ngắm
+tháng 7/2025-9/2025trợ lí sản xuất, Ai automation, Video AI tại Cty cổ phần truyền thông ống ngắm
 
-Flutter Developer Intern
+tháng 1/2025-2/2025 Flutter Developer Intern
 
-Data Analyst Intern (part-time exposure)
+tháng 3/2025-5/2025 Data Analyst Intern (part-time exposure)
 
-AI Engineer Intern
+tháng 1/2026-hiện tại AI Engineer Intern
 
 Freelance Developer (Web/App/Automation)
 
